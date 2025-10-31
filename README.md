@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Bryan Bishi</h1>
-<h3 align="center">Software Engineer | React.js | Django | UI/UX Enthusiast</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BryanBishi&label=Profile%20views&color=0e75b6&style=flat" alt="BryanBishi" />
@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 🎯 Dynamic and creative **Software Engineer** passionate about crafting seamless digital experiences.  
-💻 Skilled in **React.js**, **Django**, and **Figma**, blending code and design for intuitive web apps.  
+💻 Skilled in **React.js**, **Django**, **AdobeCC**, and **Figma**, blending code and design for intuitive web apps.  
 🎨 I love translating complex problems into clean, aesthetic interfaces.  
 
 ---
@@ -34,18 +34,10 @@
   <a href="https://www.linkedin.com/in/bryanbishi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://github.com/BryanBishi" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BryanBishi&show_icons=true&theme=tokyonight" alt="Bryan's stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BryanBishi&theme=tokyonight" alt="GitHub streak" />
-</p>
 
 ---
 
