@@ -56,9 +56,6 @@
   <a href="https://www.linkedin.com/in/bryanbishi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/BryanBishi" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
 
 ---
@@ -68,7 +65,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BryanBishi&show_icons=true&theme=radical" alt="GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BryanBishi&theme=radical" alt="GitHub streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanBishi&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
 ---
