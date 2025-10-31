@@ -18,7 +18,7 @@
 **Frontend:** React.js, HTML, CSS, JavaScript, TypeScript  
 **Backend:** Django, Python, MySQL  
 **Design:** Figma, Adobe CC (Photoshop, Illustrator, After Effects)  
-**Tools:** Postman, Swagger, DigitalOcean, Agile  
+**Tools:** Postman, Swagger, DigitalOcean  
 
 ---
 
