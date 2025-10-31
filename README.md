@@ -49,7 +49,7 @@
 ### 💫 Aesthetic Break
 
 <p align="center">
-  <img src="https://github.com/BryanBishi/BryanBishi/blob/main/assets/coding-boy.gif" width="400" alt="coding gif">
+  <img src="https://github.com/BryanBishi/BryanBishi/blob/main/assets/pic.png" width="400" alt="coding gif">
 </p>
 
 ---
