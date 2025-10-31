@@ -31,7 +31,7 @@
 |:-------------:|:------------:|:------------:|:-----------:|
 | React.js ⚛️ | Django 🐍 | Figma 🖌️ | Postman 💌 |
 | HTML / CSS 🌐 | Python 🧠 | Adobe CC 🎨 | Swagger 📘 |
-| JavaScript / TypeScript ⚡ | MySQL 💾 | Photography 🧩 | DigitalOcean ☁️ |
+| JavaScript / TypeScript ⚡ | MySQL 💾 | Photography 📷 | DigitalOcean ☁️ |
 
 </div>
 
@@ -46,12 +46,9 @@
 
 ---
 
-### 💫 Aesthetic Break
 
-<p align="center">
-  <img src="https://github.com/BryanBishi/BryanBishi/blob/main/coding-boy.png" width="400" alt="Coding Illustration">
-</p>
----
+
+
 
 ### 🌐 Connect With Me
 
