@@ -9,9 +9,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=F7A400&center=true&vCenter=true&width=600&lines=Crafting+Seamless+Digital+Experiences+🚀;Design+Meets+Code+💡;Turning+Ideas+into+Beautiful+Interfaces+🎨" alt="Typing SVG" />
-</p>
+
 
 ---
 
