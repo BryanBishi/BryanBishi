@@ -1,7 +1,7 @@
 <!-- 🌟 Bryan Bishi | Aesthetic GitHub Profile README -->
 
 <h1 align="center">✨ Hey there, I'm <a href="https://github.com/BryanBishi">Bryan Bishi</a> 👋</h1>
-<h3 align="center">💻 Software Engineer | React.js | Django | Designer at Heart 🎨</h3>
+<h3 align="center">💻 Software Engineer | Designer 🎨</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BryanBishi&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile views" />
@@ -31,7 +31,7 @@
 |:-------------:|:------------:|:------------:|:-----------:|
 | React.js ⚛️ | Django 🐍 | Figma 🖌️ | Postman 💌 |
 | HTML / CSS 🌐 | Python 🧠 | Adobe CC 🎨 | Swagger 📘 |
-| JavaScript / TypeScript ⚡ | MySQL 💾 | Photoshop / Illustrator 🧩 | DigitalOcean ☁️ |
+| JavaScript / TypeScript ⚡ | MySQL 💾 | Photography 🧩 | DigitalOcean ☁️ |
 
 </div>
 
