@@ -25,36 +25,15 @@
 
 ### 🧩 Projects
 
-<table>
-  <tr>
-    <td>
-      <h4>🎨 UI Components Playground</h4>
-      <p>A modern React playground of handcrafted, animated, reusable UI elements — built with <b>Vite</b>, <b>TailwindCSS</b>, and <b>Framer Motion</b>.</p>
-      <p>
-        <a href="https://bryanbishi.github.io/UiComponentsPlayground/" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-UiComponentsPlayground-ff69b4?style=for-the-badge" alt="Live Demo">
-        </a>
-        <a href="https://github.com/BryanBishi/UiComponentsPlayground" target="_blank">
-          <img src="https://img.shields.io/badge/Repo-GitHub-111?style=for-the-badge&logo=github" alt="Repo">
-        </a>
-      </p>
-      <sub>Stack: React • Vite • TailwindCSS • Framer Motion</sub>
-    </td>
-  </tr>
+<p align="center">
+  <a href="https://bryanbishi.github.io/UiComponentsPlayground/" target="_blank">
+    <img src="https://img.shields.io/badge/-🎨%20UI%20Components%20Playground-%23ff69b4?style=for-the-badge" alt="UI Components Playground">
+  </a>
+</p>
 
-  <tr>
-    <td>
-      <h4>🧠 Smart Waste Management System (IoT Project)</h4>
-      <p>IoT-based waste segregation system with sensor automation and municipal integration — winner of multiple awards.</p>
-      <p>
-        <a href="https://www.linkedin.com/posts/bryanbishi_inapp-csiinappawards-innovation-activity-7266826779594485761-vWe-?utm_source=share&utm_medium=member_desktop" target="_blank">
-          <img src="https://img.shields.io/badge/View_on-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="View on LinkedIn">
-        </a>
-      </p>
-      <sub>Awards: MBCETAA Best Project • CSI INAPP Awards (1st Place) • Under Patent Review</sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <i>A modern React playground of handcrafted, animated, reusable UI elements — built with <b>Vite</b>, <b>TailwindCSS</b>, and <b>Framer Motion</b>.</i>
+</p>
 
 ---
 
