@@ -7,17 +7,9 @@
   <img src="https://komarev.com/ghpvc/?username=BryanBishi&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile views" />
 </p>
 
-<!-- Navigation Tabs -->
-<p align="center">
-  <a href="#portfolio">Portfolio</a> •
-  <a href="#projects">Projects</a> •
-  <a href="#tech-arsenal">Tech Stack</a> •
-  <a href="#connect-with-me">Connect</a>
-</p>
-
 ---
 
-### <a id="portfolio"></a>🚀 My Portfolio
+### 🚀 My Portfolio
 
 <p align="center">
   <a href="https://bryanbishi.github.io/ProtfolioWebsite/" target="_blank">
@@ -31,7 +23,7 @@
 
 ---
 
-### <a id="projects"></a>🧩 Projects
+### 🧩 Projects
 
 <table>
   <tr>
@@ -64,18 +56,6 @@
       <sub>Stack: React • Vite • CSS Modules</sub>
     </td>
   </tr>
-  <tr>
-    <td>
-      <h4>🧠 Smart Waste Management System (IoT Project)</h4>
-      <p>IoT-based waste segregation system with sensor automation and municipal integration — winner of multiple awards.</p>
-      <p>
-        <a href="https://www.linkedin.com/posts/bryanbishi_inapp-csiinappawards-innovation-activity-7266826779594485761-vWe-?utm_source=share&utm_medium=member_desktop" target="_blank">
-          <img src="https://img.shields.io/badge/View_on-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="View on LinkedIn">
-        </a>
-      </p>
-      <sub>Awards: MBCETAA Best Project • CSI INAPP Awards (1st Place) • Under Patent Review</sub>
-    </td>
-  </tr>
 </table>
 
 ---
@@ -88,7 +68,7 @@
 
 ---
 
-### <a id="tech-arsenal"></a>🧰 Tech Arsenal
+### 🧰 Tech Arsenal
 
 <div align="center">
 
@@ -111,6 +91,31 @@
 
 ---
 
-### <a id="connect-with-me"></a>🌐 Connect With Me
+### 🌐 Connect With Me
 
-<p
+<p align="center">
+  <a href="https://www.linkedin.com/in/bryanbishi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://bryanbishi.github.io/ProtfolioWebsite/" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Website-%23ff69b4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Vibes
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BryanBishi&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BryanBishi&theme=radical" alt="GitHub streak" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer" />
+</p>
+
+⭐️ *From [BryanBishi](https://github.com/BryanBishi)*
