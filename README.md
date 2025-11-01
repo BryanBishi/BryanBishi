@@ -41,19 +41,17 @@
       <sub>Stack: React • Vite • TailwindCSS • Framer Motion</sub>
     </td>
   </tr>
+
   <tr>
     <td>
-      <h4>🌐 Portfolio Website</h4>
-      <p>Your main portfolio — clean, responsive, and hosted on GitHub Pages.</p>
+      <h4>🧠 Smart Waste Management System (IoT Project)</h4>
+      <p>IoT-based waste segregation system with sensor automation and municipal integration — winner of multiple awards.</p>
       <p>
-        <a href="https://bryanbishi.github.io/ProtfolioWebsite/" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-Portfolio-ff69b4?style=for-the-badge" alt="Live Demo">
-        </a>
-        <a href="https://github.com/BryanBishi/ProtfolioWebsite" target="_blank">
-          <img src="https://img.shields.io/badge/Repo-GitHub-111?style=for-the-badge&logo=github" alt="Repo">
+        <a href="https://www.linkedin.com/posts/bryanbishi_inapp-csiinappawards-innovation-activity-7266826779594485761-vWe-?utm_source=share&utm_medium=member_desktop" target="_blank">
+          <img src="https://img.shields.io/badge/View_on-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="View on LinkedIn">
         </a>
       </p>
-      <sub>Stack: React • Vite • CSS Modules</sub>
+      <sub>Awards: MBCETAA Best Project • CSI INAPP Awards (1st Place) • Under Patent Review</sub>
     </td>
   </tr>
 </table>
