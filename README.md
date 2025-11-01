@@ -7,10 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=BryanBishi&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile views" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff69b4&height=2&section=header" />
-</p>
-
 ---
 
 ### 🚀 My Portfolio
