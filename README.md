@@ -37,10 +37,10 @@
 
 ### 🏆 Highlights
 
-🧠 **Smart Waste Management System (IoT Project)**  
-  &nbsp;&nbsp;&nbsp;🥇  *MBCETAA Best Project Award*  
-  &nbsp;&nbsp;&nbsp;🏆 *CSI INAPP Awards – First Place*  
-  &nbsp;&nbsp;&nbsp; 🏙 *Reviewed by Smart City Trivandrum (Under Patent Evaluation)*  
+🧠 **Smart Waste Management System (IoT Project):**  
+  &nbsp;&nbsp;&nbsp;&nbsp;🥇  *MBCETAA Best Project Award*  
+  &nbsp;&nbsp;&nbsp;&nbsp;🏆 *CSI INAPP Awards – First Place*  
+  &nbsp;&nbsp;&nbsp;&nbsp; 🏙 *Reviewed by Smart City Trivandrum (Under Patent Evaluation)*  
 
 ---
 
