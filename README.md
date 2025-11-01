@@ -26,7 +26,7 @@
 ### 🧩 Projects
 
 <p align="center">
-  <a href="https://bryanbishi.github.io/UiComponentsPlayground/" target="_blank">
+  <a href="https://bryanbishi.github.io/UiComponentsPlayground/](https://ui-components-playground-gray.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/-🎨%20UI%20Components%20Playground-%23ff69b4?style=for-the-badge" alt="UI Components Playground">
   </a>
 </p>
