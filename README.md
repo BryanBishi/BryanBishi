@@ -9,7 +9,17 @@
 
 ---
 
+### 🚀 My Portfolio
 
+<p align="center">
+  <a href="https://bryanbishi.github.io/ProtfolioWebsite/" target="_blank">
+    <img src="https://img.shields.io/badge/-🌐%20Visit%20My%20Portfolio-%23ff69b4?style=for-the-badge" alt="Portfolio Link"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>A modern, responsive portfolio website showcasing my work, design, and development projects — built using <b>React + Vite</b> and hosted on <b>GitHub Pages</b>.</i>
+</p>
 
 ---
 
@@ -38,21 +48,21 @@
 ### 🏆 Highlights
 
 🧠 **Smart Waste Management System (IoT Project):**  
-  &nbsp;&nbsp;&nbsp;&nbsp;🥇  *MBCETAA Best Project Award*  
+  &nbsp;&nbsp;&nbsp;&nbsp;🥇 *MBCETAA Best Project Award*  
   &nbsp;&nbsp;&nbsp;&nbsp;🏆 *CSI INAPP Awards – First Place*  
-  &nbsp;&nbsp;&nbsp;&nbsp; 🏙 *Reviewed by Smart City Trivandrum (Under Patent Evaluation)*  
+  &nbsp;&nbsp;&nbsp;&nbsp;🏙 *Reviewed by Smart City Trivandrum (Under Patent Evaluation)*  
 
 ---
-
-
-
-
 
 ### 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bryanbishi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://bryanbishi.github.io/ProtfolioWebsite/" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Website-%23ff69b4?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
