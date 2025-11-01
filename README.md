@@ -35,6 +35,16 @@
   <i>A modern React playground of handcrafted, animated, reusable UI elements — built with <b>Vite</b>, <b>TailwindCSS</b>, and <b>Framer Motion</b>.</i>
 </p>
 
+<p align="center">
+  <a href="https://flipkart-product-landing-page.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/-🛒%20Flipkart%20Landing%20Page-%23ff69b4?style=for-the-badge" alt="Flipkart Landing Page">
+  </a>
+</p>
+
+<p align="center">
+  <i>A sleek, responsive product landing page inspired by Flipkart — showcasing e-commerce UI/UX and modern layout techniques using <b>React</b> and <b>TailwindCSS</b>.</i>
+</p>
+
 ---
 
 ### 🪄 About Me
